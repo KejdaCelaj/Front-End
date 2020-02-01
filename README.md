@@ -4,8 +4,8 @@ During development, make sure that you are on your feature/firstname-lastname br
 
 *At the start of each day, run the following:* 
 - `git pull origin dev`
-- `npm install` (this will ensure any dependencies that were installed by others are updated for you)
-- `npm start`
+- `yarn` (this will ensure any dependencies that were installed by others are updated for you)
+- `yarn start`
 
 Make sure to post what you're working on to Slack.
 
