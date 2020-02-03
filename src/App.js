@@ -1,3 +1,4 @@
+
 import React, {useState} from 'react';
 import './App.css';
 import Dashboard from './pages/Dashboard';
@@ -14,7 +15,6 @@ function App() {
       <Route path="/Login" component={Login}/>
     </div>
   );
-
 }
 
 export default App;
